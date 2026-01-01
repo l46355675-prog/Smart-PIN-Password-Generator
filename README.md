@@ -46,4 +46,4 @@ No prior Java setup needed
 Go to app store or google store and download the app termux then 
 once you open the app you tyoe in the following commands `pkg update && pkg upgrade
 pkg install openjdk-17` ( openjdk might need a new version follow the on screen to download the new version ) then after you proceed with those commands you go to your downloads by ttping the following command `cd storage/downloads` if it gives you error type `termux-setup-storage` then try again then check if the file is there by typing `ls` you should see `pinGenerator.java` then you guve termux access to it by typing `javac pinGenerator.java` then you run it by typing `java pinGenerator`
-Get your strong password or pin now Download link: [ https://payhip.com/b/ghP4C ]
+If you find this project useful, consider supporting me → https://ko-fi.com/javamaster
